@@ -18,3 +18,7 @@ in [PyTabKit](https://github.com/dholzmueller/pytabkit).
 The file `check_mlp.py` 
 checks that this implementation matches the one in PyTabKit
 and requires to install PyTabKit to run. 
+
+## A personal note:
+
+This repository was used within the exercises of Deep Learning, and has undergone little modifications. Go see Deep Learning.
